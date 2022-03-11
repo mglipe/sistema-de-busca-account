@@ -1,0 +1,46 @@
+.container-buscar-dados{
+    background: #8EB8D7;
+    margin-left: 3em;
+    border-radius: 5em;
+
+    text-align: center;
+}
+
+.container-busca{
+    margin:5em 2em 2em 2em;
+
+
+    border-radius: 2em;
+
+ 
+}
+
+.img-busca{
+    height: 30px;
+    position: absolute  ;
+    top: 13.2em;
+    right: 29em;
+}
+
+.input-busca{
+    padding: 2em;
+    background: #C5D4DF ;
+
+    width: 310px;
+    border: none;
+    border-radius: 3em;
+}
+
+
+
+
+
+.add-dados{
+    margin-top: 28em;
+    cursor: pointer;
+}
+
+.add-dados:hover{
+    text-decoration: underline;
+}
+

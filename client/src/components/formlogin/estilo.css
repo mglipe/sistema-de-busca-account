@@ -1,0 +1,55 @@
+.container-form{
+    background: #8EB8D7;
+    margin-left: 3em;
+    border-radius: 5em;
+
+    text-align: center;
+}
+
+
+.input-email{
+    margin-top: 20em;
+    line-height: 2em;
+
+    padding-right: 8em;
+    border-radius: 1.5em;
+    border: none;
+}
+
+.input-password{
+    margin-top: 5em;
+    line-height: 2em;
+
+    padding-right: 8em;
+    border-radius: 1.5em;
+    border: none;
+}
+
+.button{
+    margin-top: 5em;
+    margin-left: 13.4em;
+
+    width: 7em;
+    padding: .5em;
+
+    border: none;
+    border-radius: 1.5em;
+    background: #3A8BD4;
+
+}
+
+
+.container-link{
+    margin-top: 10em;
+}
+
+.container-link a{
+    text-decoration: none;
+    color: #FCFFFF;
+}
+
+.container-link a:hover{
+    transition: 1s;
+    color: rgba(240, 248, 255, 0.849);
+    text-decoration: underline;
+}

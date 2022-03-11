@@ -1,0 +1,40 @@
+body{
+    background: #BCD7E5;
+}
+
+.container{
+    margin-top: 7em;
+    margin-left: 30em;
+}
+
+.container-data{
+    background: #FFFFFF;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+    width: 1036px;
+    height: 738px;
+
+    border-radius: 0 5em 5em 0;
+
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ribeye+Marrow&display=swap');
+
+.container-logo h1{
+    margin-top: 1em;
+    margin-left: 1.2em;
+
+    font-size: 48pt;
+    font-family: 'Ribeye Marrow', cursive;
+}
+
+.container-logo img{
+    width: 499px;
+    height: 456px;
+    margin-left: 2em;
+    
+
+    border-radius: 0em 0em 2em 2em;
+}

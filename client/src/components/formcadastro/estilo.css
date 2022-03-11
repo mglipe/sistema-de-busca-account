@@ -1,0 +1,37 @@
+.container-cadastro-form{
+    background: #8EB8D7;
+    margin-left: 3em;
+    border-radius: 5em;
+
+    text-align: center;
+}
+
+
+.input-cadastro-name{
+    margin-top: 20em;
+    line-height: 2em;
+
+    padding-right: 8em;
+    border-radius: 1.5em;
+    border: none;
+}
+
+.input-cadastro-email{
+    margin-top: 5em;
+    line-height: 2em;
+
+    padding-right: 8em;
+    border-radius: 1.5em;
+    border: none;
+}
+
+
+
+.input-cadastro-password{
+    margin-top: 5em;
+    line-height: 2em;
+
+    padding-right: 8em;
+    border-radius: 1.5em;
+    border: none;
+}
